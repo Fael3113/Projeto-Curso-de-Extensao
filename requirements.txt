@@ -1,0 +1,4 @@
+É preciso para esse código funcionar:
+flask (pip install Flask)
+Flask-SQLAlchemy (pip install Flask-SQLAlchemy)
+flask-login (pip install Flask-Login)
